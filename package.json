@@ -1,0 +1,14 @@
+{
+  "name": "TBT",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Walker",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
